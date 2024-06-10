@@ -15,7 +15,7 @@ export default function Project(){
             <div id="containP">
                 <Pro src={Expense} text="Designed a simple expense tracker application using HTML5, CSS and Javascript." href="https://cybogsail.000webhostapp.com/" >
                 </Pro>
-                <Pro src={Stockit}text="Designing an Inventory Management Application that efficiently manages inventory, boosts productivity, and optimizes profitability with React, and Firebase." href="" >
+                <Pro src={Stockit}text="Currently designing an Inventory Management Application that efficiently manages inventory, boosts productivity, and optimizes profitability with React, and Firebase." href="" >
                 </Pro>
                 <Pro src={SummaryResult} text="Designed a responsive result summary template page using HTML 5 and CSS to sharpen my skills in responsiveness." href="https://huddle-landing-page-eight-omega.vercel.app" >
                 </Pro>
