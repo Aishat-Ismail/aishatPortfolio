@@ -7,7 +7,7 @@ export default function Contact(){
     return(
         <>
         <div id="contact">        
-            <p id="con">Contact Me</p>
+            <h3 id="con">Contact Me</h3>
             <div id="ContactM">
                 <div id="conImg">
                     <img src={Cont} alt="" />
